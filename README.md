@@ -12,7 +12,9 @@ div id="search-engine-otimization" was missing and would not redirct when you cl
 ## what I updated on CSS
 quotation was missing on font-family: 'Calibri' on .header div {}, .benefits {}, .online-reputation-management {}, and .social-media-marketing {}.
 
-Added text-align: center to benfit section to center paragraphs for cleaner look. 
+Added text-align: center to benfit section to center paragraphs for cleaner look.
+
+title shown as webpage, changed to Horiseon to match header 
 
 ## Installation
 
