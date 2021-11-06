@@ -11,10 +11,10 @@ div id="search-engine-otimization" was missing and would not redirct when you cl
 ## what I updated on CSS
 quotation was missing on font-family: 'Calibri' on .header div {}, .benefits {}, .online-reputation-management {}, and .social-media-marketing {}.
 
-Added text-align: center to p {} section to center paragraphs under benefits for cleaner look. 
+Added text-align: center to benfit section to center paragraphs for cleaner look. 
 
 ## Installation
 
-URL for github https://github.com/CarlitosDavid/fix-horiseon-code
+URL from github https://carlitosdavid.github.io/fix-horiseon-code/
 clone repository from CarlitosDavid/fix-horiseon-code
 git@github.com:CarlitosDavid/fix-horiseon-code.git
