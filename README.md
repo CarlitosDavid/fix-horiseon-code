@@ -16,5 +16,5 @@ Added text-align: center to benfit section to center paragraphs for cleaner look
 ## Installation
 
 URL from github https://carlitosdavid.github.io/fix-horiseon-code/
-clone repository from CarlitosDavid/fix-horiseon-code
-git@github.com:CarlitosDavid/fix-horiseon-code.git
+Clone SSH-key: git@github.com:CarlitosDavid/fix-horiseon-code.git
+https://github.com/CarlitosDavid/fix-horiseon-code/issues/1#issue-1046593642
