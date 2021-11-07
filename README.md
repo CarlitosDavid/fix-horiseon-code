@@ -26,7 +26,7 @@ URL https://carlitosdavid.github.io/fix-horiseon-code/
 
 Screenshot to clone: How to:
 
-    https://github.com/CarlitosDavid/fix-horiseon-code/issues/1#issue-1046593642
+https://github.com/CarlitosDavid/fix-horiseon-code/issues/1#issue-1046593642
 
     1. click on code drop down
     2. copy SSH key to clipboard
