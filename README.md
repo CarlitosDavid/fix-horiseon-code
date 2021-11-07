@@ -17,6 +17,9 @@ quotation was missing on font-family: 'Calibri' on .header div {}, .benefits {},
     Added text-align: center to benfit section to center paragraphs for cleaner look.
 
     title shown as webpage, changed to Horiseon to match header 
+    
+    rearrange CSS styling for a cleaner look. 
+    all comments are left in the code. 
 
 ## Installation
 
