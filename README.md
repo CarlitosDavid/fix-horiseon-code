@@ -29,10 +29,11 @@ URL for deployed application:
 
     Clone SSH-key: git@github.com:CarlitosDavid/fix-horiseon-code.git
 
-Screenshot to clone: How to:
+Screenshot to clone:
 
 https://github.com/CarlitosDavid/fix-horiseon-code/issues/1#issue-1046593642
 
+How to:
     1. click on code drop down
     2. copy SSH key to clipboard
     3. % git clone to your terminal 
