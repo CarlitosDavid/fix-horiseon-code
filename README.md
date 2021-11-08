@@ -1,9 +1,10 @@
 # fix-horiseon-code
 
-Horiseon html and css have a few mistake hidden in the code
-    Horiseon code comes from coding bootcamp challenge. 
+Horiseon's html and css have a few mistake hidden in the code
+    Horiseon code comes from coding bootcamp challenge
+     1. HTML CSS Git challenge: Code Refactor. 
     when I view the source code I notice minor problems with the html and css.
-
+    Changes I did are as follow.
 
 ## what I updated on html
 
@@ -34,5 +35,3 @@ https://github.com/CarlitosDavid/fix-horiseon-code/issues/1#issue-1046593642
     1. click on code drop down
     2. copy SSH key to clipboard
     3. % git clone to your terminal 
-
-
