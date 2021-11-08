@@ -24,7 +24,8 @@ quotation was missing on font-family: 'Calibri' on .header div {}, .benefits {},
 
 ## Installation
 
-URL https://carlitosdavid.github.io/fix-horiseon-code/
+URL for deployed application:
+ https://carlitosdavid.github.io/fix-horiseon-code/
 
     Clone SSH-key: git@github.com:CarlitosDavid/fix-horiseon-code.git
 
